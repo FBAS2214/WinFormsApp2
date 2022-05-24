@@ -1,5 +1,5 @@
 WinFormsApp2
-* ZIndex => SendToBack, BringToFront, SetChildIndex
+* Z Index => SendToBack, BringToFront, SetChildIndex
 * Using Resoruces
 * Controls Remove
 * Check Box, Radio Button
